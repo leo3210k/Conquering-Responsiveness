@@ -18,6 +18,7 @@
 .container__title {
   font-size: 48px;
   font-weight: 900;
+  line-height: 56.31px;
 }
 
 .container__description {
@@ -26,6 +27,11 @@
 }
 
 .container__button {
+  padding: 1rem 2.5rem;
+  color: black;
+  background-color: #38CFD9;
+  border: none;
+  border-radius: 2rem;
   font-size: 21px;
   font-weight: 700;
 }
