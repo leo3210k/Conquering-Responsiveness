@@ -38,6 +38,11 @@
   font-weight: 700;
 }
 
+.container__button:hover {
+  cursor: pointer;
+  opacity: 70%;
+}
+
 .container:nth-child(2) {
   padding: 8rem;
   display: flex;
