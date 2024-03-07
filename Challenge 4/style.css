@@ -4,7 +4,7 @@
   font-family: 'Roboto';
 }
 
-.container {
+.container:first-of-type {
   padding: 10rem 10rem;
   color: white;
   background-color: #23424A;
