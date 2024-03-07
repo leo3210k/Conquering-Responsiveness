@@ -14,3 +14,13 @@
   font-size: 48px;
   font-weight: 900;
 }
+
+.container__description {
+  font-size: 21px;
+  font-weight: 400;
+}
+
+.container__button {
+  font-size: 21px;
+  font-weight: 700;
+}
