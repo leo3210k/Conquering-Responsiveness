@@ -39,7 +39,7 @@
 }
 
 .container:nth-child(2) {
-  padding: 10rem;
+  padding: 8rem;
   display: flex;
   justify-content: space-evenly;
   gap: 0 1.5rem;
