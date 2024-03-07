@@ -24,14 +24,17 @@ body {
 }
 
 .container {
-  width: 100%;
-  margin: 0 auto;
-  background: #23424a;
-  color: white;
   padding: 50px 0;
 }
 
-.intro-content {
+.container:first-of-type {
+  color: white;
+  background: #23424a;
+}
+
+.intro-content,
+.description-title,
+.description-text {
   margin: 0 auto;
   width: 50%;
   max-width: 750px;
@@ -40,7 +43,4 @@ body {
 .description-title,
 .description-text {
   padding: 1rem 0;
-  margin: 0 auto;
-  width: 50%;
-  max-width: 750px;
 }
