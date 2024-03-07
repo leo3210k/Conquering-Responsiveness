@@ -45,6 +45,12 @@
   text-align: center;
 }
 
+.container__card {
+  display: flex;
+  flex-direction: column;
+  gap: 0 10rem;
+}
+
 .card__title {
   color: #87629A;
   font-size: 36px;
