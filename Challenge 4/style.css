@@ -44,3 +44,9 @@
   justify-content: space-evenly;
   text-align: center;
 }
+
+.card__title {
+  color: #87629A;
+  font-size: 36px;
+  font-weight: 900;
+}
