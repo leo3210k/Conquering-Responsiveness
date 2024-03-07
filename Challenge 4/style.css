@@ -61,3 +61,10 @@
 .card__description {
   line-height: 1.5rem;
 }
+
+.container:nth-child(3) {
+  padding: 10rem;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #136C72;
+}
