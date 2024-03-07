@@ -49,7 +49,7 @@
 .container__card {
   display: flex;
   flex-direction: column;
-  gap: 0 10rem;
+  gap: 1.5rem 0;
 }
 
 .card__title {
