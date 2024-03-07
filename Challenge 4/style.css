@@ -68,3 +68,9 @@
   justify-content: space-evenly;
   background-color: #136C72;
 }
+
+.container:nth-child(3) .card__title {
+  color: white;
+  font-size: 36px;
+  font-weight: 900;
+}
