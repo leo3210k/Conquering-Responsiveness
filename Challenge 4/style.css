@@ -66,6 +66,7 @@
   padding: 10rem;
   display: flex;
   justify-content: space-evenly;
+  gap: 0 1.5rem;
   background-color: #136C72;
 }
 
