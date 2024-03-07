@@ -3,3 +3,9 @@
   box-sizing: border-box;
   font-family: 'Roboto';
 }
+
+.container {
+  padding: 15rem;
+  color: white;
+  background-color: #23424A;
+}
