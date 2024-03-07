@@ -37,3 +37,10 @@
   font-size: 21px;
   font-weight: 700;
 }
+
+.container:nth-child(2) {
+  padding: 10rem;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
