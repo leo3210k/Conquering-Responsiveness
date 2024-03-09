@@ -5,9 +5,15 @@
 }
 
 .container:first-of-type {
-  padding: 8rem 6rem;
+  padding: 8rem 16rem;
+  display: flex;
   color: white;
   background-color: #23424A;
+}
+
+.container__image {
+  max-width: 100%;
+  align-self: flex-start;
 }
 
 .container__title,
