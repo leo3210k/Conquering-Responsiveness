@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto';
+}
+
+.container:first-of-type {
+  padding: 8rem 6rem;
+  color: white;
+  background-color: #23424A;
+}
+
+.container__title,
+.container__description {
+  width: 60%;
+}
+
+.container__title {
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 56.31px;
+}
+
+.container__description {
+  margin: 1rem 0 3rem 0;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 31px;
+}
+
+.container__button {
+  padding: 1rem 2.5rem;
+  color: black;
+  background-color: #38CFD9;
+  border: none;
+  border-radius: 2rem;
+  font-size: 21px;
+  font-weight: 700;
+}
+
+.container__button:hover {
+  cursor: pointer;
+  opacity: 70%;
+}
+
+.container:nth-child(2) {
+  padding: 8rem;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 0 1.5rem;
+  text-align: center;
+}
+
+.container:nth-child(2) .container__card {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem 0;
+}
+
+.container:nth-child(2) .card__title {
+  color: #87629A;
+  font-size: 36px;
+  font-weight: 900;
+}
+
+.container:nth-child(2) .card__description {
+  line-height: 1.5rem;
+}
+
+.container:nth-child(3) {
+  padding: 5rem;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 0 1.5rem;
+  background-color: #136C72;
+}
+
+.container:nth-child(3) .container__card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem 0;
+}
+
+.container:nth-child(3) .card__title {
+  color: white;
+  font-size: 36px;
+  font-weight: 900;
+}
+
+.container:nth-child(3) .card__description {
+  color: white;
+  text-align: center;
+  line-height: 1.5rem;
+}
