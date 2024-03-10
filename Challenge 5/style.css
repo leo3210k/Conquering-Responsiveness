@@ -49,30 +49,6 @@
   opacity: 70%;
 }
 
-.container:nth-child(2) {
-  padding: 8rem;
-  display: flex;
-  justify-content: space-evenly;
-  gap: 0 1.5rem;
-  text-align: center;
-}
-
-.container:nth-child(2) .container__card {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem 0;
-}
-
-.container:nth-child(2) .card__title {
-  color: #87629A;
-  font-size: 36px;
-  font-weight: 900;
-}
-
-.container:nth-child(2) .card__description {
-  line-height: 1.5rem;
-}
-
 .container:nth-child(3) {
   padding: 5rem;
   display: flex;
