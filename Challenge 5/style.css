@@ -54,7 +54,7 @@
   display: flex;
   justify-content: space-evenly;
   gap: 0 1.5rem;
-  background-color: #136C72;
+  background-color: white;
 }
 
 .container:nth-child(2) .container__card {
