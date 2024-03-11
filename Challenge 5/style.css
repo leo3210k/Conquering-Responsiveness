@@ -61,6 +61,13 @@
   font-size: 36px;
 }
 
+.container__content {
+  padding: 5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem 0;
+}
+
 .container__list {
   padding: 3rem;
   display: flex;
