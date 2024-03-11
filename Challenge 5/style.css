@@ -50,6 +50,7 @@
 }
 
 .container:nth-child(2) {
+  padding: 6rem;
   display: flex;
   justify-content: space-between;
   background-color: white;
@@ -70,7 +71,6 @@
 }
 
 .container__list {
-  width: 40%;
   padding: 3rem;
   display: flex;
   flex-direction: column;
