@@ -63,7 +63,7 @@
 }
 
 .container__content {
-  padding: 5rem;
+  padding: 3rem;
   display: flex;
   flex-direction: column;
   gap: 2rem 0;
