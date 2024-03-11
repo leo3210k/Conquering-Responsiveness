@@ -64,6 +64,7 @@
 .container__list {
   display: flex;
   flex-direction: column;
+  background-color: #136C72;
 }
 
 .container__list .container__card {
