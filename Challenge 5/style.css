@@ -84,4 +84,5 @@
 
 .container__card .card__description {
   text-align: center;
+  line-height: 25px;
 }
