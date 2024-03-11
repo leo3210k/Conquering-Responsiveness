@@ -71,6 +71,7 @@
 }
 
 .container__list {
+  width: 35%;
   padding: 3rem;
   display: flex;
   flex-direction: column;
