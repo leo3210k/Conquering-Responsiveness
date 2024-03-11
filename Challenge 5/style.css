@@ -65,6 +65,7 @@
   padding: 3rem;
   display: flex;
   flex-direction: column;
+  gap: 4rem 0;
   background-color: #136C72;
 }
 
@@ -78,4 +79,8 @@
 .container__card .card__title {
   font-weight: 900;
   font-size: 36px;
+}
+
+.container__card .card__description {
+  text-align: center;
 }
