@@ -71,3 +71,9 @@
   flex-direction: column;
   align-items: center;
 }
+
+.container__card .card__title {
+  color: white;
+  font-weight: 900;
+  font-size: 36px;
+}
