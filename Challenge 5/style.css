@@ -62,6 +62,7 @@
 }
 
 .container__list {
+  padding: 3rem;
   display: flex;
   flex-direction: column;
   background-color: #136C72;
