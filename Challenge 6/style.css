@@ -14,6 +14,8 @@
 }
 
 .header__list {
+  font-weight: 500;
+  font-size: 1.2rem;
   list-style-type: none;
 }
 
