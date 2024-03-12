@@ -4,6 +4,10 @@
   font-family: 'Roboto';
 }
 
+.header__list {
+  list-style-type: none;
+}
+
 .hero {
   padding: 8rem 16rem;
   display: flex;
