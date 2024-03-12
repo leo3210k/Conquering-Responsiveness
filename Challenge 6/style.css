@@ -8,6 +8,11 @@
   background-color: #136C72;
 }
 
+.header__content {
+  margin: 0;
+  padding: 0;
+}
+
 .header__list {
   list-style-type: none;
 }
