@@ -4,37 +4,37 @@
   font-family: 'Roboto';
 }
 
-.container:first-of-type {
+.hero {
   padding: 8rem 16rem;
   display: flex;
   color: white;
   background-color: #23424A;
 }
 
-.container:first-of-type .container__image {
+.hero .hero__image {
   max-width: 100%;
   align-self: flex-start;
 }
 
-.container:first-of-type .container__title,
-.container:first-of-type .container__description {
+.hero .hero__title,
+.hero .hero__description {
   width: 60%;
 }
 
-.container:first-of-type .container__title {
+.hero .hero__title {
   font-size: 48px;
   font-weight: 900;
   line-height: 56.31px;
 }
 
-.container:first-of-type .container__description {
+.hero .hero__description {
   margin: 1rem 0 3rem 0;
   font-size: 21px;
   font-weight: 400;
   line-height: 31px;
 }
 
-.container:first-of-type .container__button {
+.hero .hero__button {
   padding: 1rem 2.5rem;
   color: black;
   background-color: #38CFD9;
@@ -44,7 +44,7 @@
   font-weight: 700;
 }
 
-.container:first-of-type .container__button:hover {
+.hero .hero__button:hover {
   cursor: pointer;
   opacity: 70%;
 }
