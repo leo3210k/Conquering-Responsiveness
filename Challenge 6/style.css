@@ -4,6 +4,10 @@
   font-family: 'Roboto';
 }
 
+.header {
+  background-color: #136C72;
+}
+
 .header__list {
   list-style-type: none;
 }
