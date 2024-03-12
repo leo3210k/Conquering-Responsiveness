@@ -19,6 +19,14 @@
   list-style-type: none;
 }
 
+a.header__list {
+  padding: 0.3rem 1rem;
+  color: #136C72;
+  border-radius: 1rem;
+  background-color: white;
+  text-decoration: none;
+}
+
 li.header__list {
   color: white;
 }
