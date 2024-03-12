@@ -8,6 +8,10 @@
   list-style-type: none;
 }
 
+li.header__list {
+  color: white;
+}
+
 .hero {
   padding: 8rem 16rem;
   display: flex;
