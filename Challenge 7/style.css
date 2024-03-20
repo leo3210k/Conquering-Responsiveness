@@ -31,7 +31,7 @@
 }
 
 .quality {
-  padding: 6rem 16rem;
+  padding: 6rem 0;
   display: flex;
   flex-direction: column;
   align-items: center;
