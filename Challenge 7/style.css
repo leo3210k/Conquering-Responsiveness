@@ -54,3 +54,10 @@
   line-height: 2rem;
   font-size: 21px;
 }
+
+.custom {
+  padding: 6rem 16rem;
+  display: flex;
+  gap: 4rem;
+  background-color: var(--outer-space);
+}
