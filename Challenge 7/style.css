@@ -74,3 +74,8 @@
   font-size: 36px;
   font-family: "Playfair Display", serif;
 }
+
+.custom__text {
+  font-size: 21px;
+  line-height: 2rem;
+}
