@@ -34,11 +34,15 @@
 }
 
 .quality {
-
+  padding: 4rem 8rem;
 }
 
 .quality__title {
   color: var(--ironstone);
   font-size: 36px;
   font-family: "Playfair Display", serif;
+}
+
+.quality__text {
+  display: flex;
 }
