@@ -57,41 +57,21 @@
 }
 
 .custom {
-  padding: 6rem 16rem;
-  display: flex;
-  gap: 4rem;
   background-color: var(--outer-space);
 }
 
-.custom__description {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-  color: white;
+.care {
+  background-color: var(--ironstone);
 }
 
-.custom__title {
-  font-size: 36px;
-  font-family: "Playfair Display", serif;
-}
-
-.custom__text {
-  font-size: 21px;
-  line-height: 2rem;
-}
-
-.custom__image {
-  width: 150%;
-  max-width: 100%;
-}
-
+.custom,
 .care {
   padding: 6rem 16rem;
   display: flex;
   gap: 4rem;
-  background-color: var(--ironstone);
 }
 
+.custom__description,
 .care__description {
   display: flex;
   flex-direction: column;
@@ -99,16 +79,19 @@
   color: white;
 }
 
+.custom__title,
 .care__title {
   font-size: 36px;
   font-family: "Playfair Display", serif;
 }
 
-.care__text {
+.custom__text,
+.care__text  {
   font-size: 21px;
   line-height: 2rem;
 }
 
+.custom__image,
 .care__image {
   width: 150%;
   max-width: 100%;
