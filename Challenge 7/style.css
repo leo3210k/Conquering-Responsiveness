@@ -63,7 +63,7 @@
 
 .custom,
 .care {
-  padding: 6rem 16rem;
+  padding: 6rem 0;
   display: flex;
   gap: 4rem;
 }
