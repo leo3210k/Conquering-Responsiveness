@@ -21,12 +21,14 @@
 }
 
 .hero__subtext {
+  font-size: 18px;
   font-weight: 300;
   letter-spacing: .4rem;
 }
 
 .hero__title {
   color: var(--ironstone);
+  font-size: 60px;
   font-family: "Playfair Display", serif;
   font-weight: 900;
 }
