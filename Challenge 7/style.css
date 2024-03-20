@@ -34,11 +34,11 @@
 }
 
 .quality {
-  padding: 4rem 16rem;
+  padding: 6rem 16rem;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 2rem;
+  gap: 4rem;
 }
 
 .quality__title {
