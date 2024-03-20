@@ -5,6 +5,7 @@
 
 :root {
   --parchment: #F3EED9;
+  --ironstone: #824936;
 }
 
 .hero {
@@ -16,4 +17,8 @@
 
   text-align: center;
   background-color: var(--parchment);
+}
+
+.hero__title {
+  color: var(--ironstone);
 }
