@@ -21,4 +21,6 @@
 
 .hero__title {
   color: var(--ironstone);
+  font-family: "Playfair Display", serif;
+  font-weight: 900;
 }
