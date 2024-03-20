@@ -8,6 +8,7 @@
   --parchment: #F3EED9;
   --ironstone: #824936;
   --outer-space: #222C2A;
+  --white: #fff;
 }
 
 .hero {
@@ -60,4 +61,8 @@
   display: flex;
   gap: 4rem;
   background-color: var(--outer-space);
+}
+
+.custom__description {
+  color: white;
 }
