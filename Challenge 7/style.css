@@ -69,3 +69,8 @@
   gap: 1.5rem;
   color: white;
 }
+
+.custom__title {
+  font-size: 36px;
+  font-family: "Playfair Display", serif;
+}
