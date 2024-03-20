@@ -49,4 +49,7 @@
 
 .quality__text {
   display: flex;
+  gap: 3.5rem;
+  line-height: 2rem;
+  font-size: 21px;
 }
