@@ -79,3 +79,8 @@
   font-size: 21px;
   line-height: 2rem;
 }
+
+.custom__image {
+  width: 80%;
+  max-width: 100%;
+}
