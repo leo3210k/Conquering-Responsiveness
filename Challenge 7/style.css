@@ -84,3 +84,32 @@
   width: 80%;
   max-width: 100%;
 }
+
+.care {
+  padding: 6rem 16rem;
+  display: flex;
+  gap: 4rem;
+  background-color: var(--ironstone);
+}
+
+.care__description {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  color: white;
+}
+
+.care__title {
+  font-size: 36px;
+  font-family: "Playfair Display", serif;
+}
+
+.care__text {
+  font-size: 21px;
+  line-height: 2rem;
+}
+
+.care__image {
+  width: 80%;
+  max-width: 100%;
+}
