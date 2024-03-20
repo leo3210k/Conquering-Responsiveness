@@ -1,6 +1,7 @@
 * {
   margin: 0;
   box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
 }
 
 :root {
@@ -17,6 +18,11 @@
 
   text-align: center;
   background-color: var(--parchment);
+}
+
+.hero__subtext {
+  font-weight: 300;
+  letter-spacing: .4rem;
 }
 
 .hero__title {
