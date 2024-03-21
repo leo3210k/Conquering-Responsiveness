@@ -11,6 +11,10 @@
   --white: #fff;
 }
 
+img {
+  max-width: 100%;
+}
+
 .hero {
   padding: 10rem 0;
   text-align: center;
@@ -88,13 +92,12 @@
 }
 
 .custom__text,
-.care__text  {
-  font-size: 21px;
+.care__text  {  max-width: 100%;
+
   line-height: 2rem;
 }
 
 .custom__image,
 .care__image {
-  width: 150%;
-  max-width: 100%;
+  width: 100%;
 }
