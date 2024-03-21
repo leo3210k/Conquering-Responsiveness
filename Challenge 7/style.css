@@ -61,11 +61,16 @@
   background-color: var(--ironstone);
 }
 
+.container {
+  width: 85%;
+  margin: 0 auto;
+  display: flex;
+  gap: 4rem;
+}
+
 .custom,
 .care {
   padding: 6rem 0;
-  display: flex;
-  gap: 4rem;
 }
 
 .custom__description,
