@@ -52,7 +52,7 @@ img {
 
 .quality__text {
   display: flex;
-  gap: 3.5rem;
+  gap: 10rem;
   line-height: 2rem;
   font-size: 21px;
 }
@@ -69,7 +69,7 @@ img {
   width: 85%;
   margin: 0 auto;
   display: flex;
-  gap: 4rem;
+  gap: 10rem;
 }
 
 .custom,
@@ -92,11 +92,13 @@ img {
 }
 
 .custom__text,
-.care__text  {  max-width: 100%;
-
+.care__text  {  
   line-height: 2rem;
 }
 
+.quality__text > p,
+.custom__description,
+.care__descr.custom__description,
 .custom__image,
 .care__image {
   width: 100%;
