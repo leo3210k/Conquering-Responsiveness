@@ -55,3 +55,7 @@
   font-weight: bold;
   line-height: 1;
 }
+
+.hero__title--brown {
+  color: var(--donkey-brown);
+}
