@@ -11,7 +11,7 @@
 }
 
 .header {
-  padding: 1rem 3rem;
+  padding: 1.2rem 2rem;
   display: flex;
   justify-content: space-between;
   background-color: var(--charade);
