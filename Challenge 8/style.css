@@ -152,3 +152,8 @@
   font-size: 1.8rem;
   font-weight: bold;
 }
+
+.make-it__description span {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
