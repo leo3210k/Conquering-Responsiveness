@@ -10,7 +10,7 @@
 }
 
 .header {
-  padding: .4rem 3rem;
+  padding: 1rem 3rem;
   display: flex;
   justify-content: space-between;
   background-color: var(--charade);
