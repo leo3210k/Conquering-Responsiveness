@@ -131,3 +131,12 @@
   font-size: .8rem;
   font-family: "Montserrat", sans-serif;
 }
+
+.make-it {
+  padding: 4rem 0;
+}
+
+.make-it .container {
+  display: flex;
+  flex-direction: column;
+}
