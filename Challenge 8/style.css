@@ -111,3 +111,12 @@
   justify-content: space-between;
   gap: 2rem;
 }
+
+.qualities-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  text-align: center;
+}
