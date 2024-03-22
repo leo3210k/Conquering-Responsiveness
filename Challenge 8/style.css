@@ -69,3 +69,9 @@
 .hero__title--brown {
   color: var(--donkey-brown);
 }
+
+.hero__description {
+  display: flex;
+  flex-direction: column;
+  color: var(--white);
+}
