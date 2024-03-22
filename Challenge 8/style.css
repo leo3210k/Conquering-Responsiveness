@@ -32,6 +32,8 @@
 }
 
 .nav__account--button {
-  color: var(--donkey-brown);
+  padding: .5rem 1.2rem;
+  background-color: var(--donkey-brown);
+  border-radius: 2rem;
 }
 
