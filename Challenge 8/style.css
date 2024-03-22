@@ -184,3 +184,8 @@ img {
   font-size: 1.6rem;
   font-weight: bold;
 }
+
+.make-it__item span {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
