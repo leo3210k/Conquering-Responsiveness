@@ -73,7 +73,9 @@
 .hero__description {
   display: flex;
   flex-direction: column;
+  justify-content: flex-end;
   align-items: center;
+  gap: 1rem;
   color: var(--white);
 }
 
