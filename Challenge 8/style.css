@@ -65,7 +65,7 @@
 
 .hero__title {
   color: var(--white);
-  font-size: 3rem;
+  font-size: 2.8rem;
   font-weight: bold;
   line-height: 1;
 }
@@ -84,6 +84,7 @@
 }
 
 .hero__text {
+  font-size: 1rem;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   line-height: 1.5;
@@ -93,7 +94,7 @@
   align-self: flex-start;
   padding: .4rem 1rem;
   background-color: var(--donkey-brown);
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: bold;
   border-radius: 2rem;
   text-transform: uppercase;
