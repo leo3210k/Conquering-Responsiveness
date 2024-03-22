@@ -7,6 +7,7 @@
 :root {
   --white: white;
   --charade: #2E323F;
+  --donkey-brown: #A59678;
 }
 
 .header {
@@ -28,5 +29,9 @@
   color: var(--white);
   text-decoration: none;
   text-transform: uppercase;
+}
+
+.nav__account--button {
+  color: var(--donkey-brown);
 }
 
