@@ -162,3 +162,9 @@ img {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
 }
+
+.make-it__items {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
