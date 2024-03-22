@@ -48,3 +48,10 @@
   padding: 6rem 0;
   background-color: var(--bright-gray);
 }
+
+.hero__title {
+  color: var(--white);
+  font-size: 90px;
+  font-weight: bold;
+  line-height: 1;
+}
