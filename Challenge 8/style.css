@@ -179,3 +179,8 @@ img {
   color: var(--white);
   background-color: var(--bright-gray);
 }
+
+.make-it__item h3 {
+  font-size: 1.6rem;
+  font-weight: bold;
+}
