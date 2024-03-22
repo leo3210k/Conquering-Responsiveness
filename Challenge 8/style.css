@@ -6,10 +6,12 @@
 
 :root {
   --white: white;
+  --charade: #2E323F;
 }
 
 .header {
   color: var(--white);
+  background-color: var(--charade);
   font-size: 18px;
   font-weight: bold;
 }
