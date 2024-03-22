@@ -19,4 +19,10 @@
   font-weight: bold;
 }
 
+.nav__links > a,
+.nav__account > a {
+  color: var(--white);
+  text-decoration: none;
+  text-transform: uppercase;
+}
 
