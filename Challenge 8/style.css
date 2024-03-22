@@ -189,3 +189,7 @@ img {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
 }
+
+.footer .container {
+  background-color: var(--bright-gray);
+}
