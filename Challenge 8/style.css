@@ -17,6 +17,8 @@
 }
 
 .nav {
+  display: flex;
+  gap: 2rem;
   font-size: 18px;
   font-weight: bold;
 }
