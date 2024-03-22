@@ -10,9 +10,13 @@
 }
 
 .header {
+  padding: .4rem 3rem;
+  display: flex;
+  justify-content: space-between;
   color: var(--white);
   background-color: var(--charade);
   font-size: 18px;
   font-weight: bold;
 }
+
 
