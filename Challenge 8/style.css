@@ -85,6 +85,10 @@
 
 .hero__button {
   align-self: flex-start;
-  padding: 1rem 1rem;
+  padding: .4rem 1rem;
   background-color: var(--donkey-brown);
+  font-size: 24px;
+  font-weight: bold;
+  border-radius: 2rem;
+  text-transform: uppercase;
 }
