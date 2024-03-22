@@ -59,6 +59,10 @@
   gap: 4rem;
 }
 
+.hero .container > * {
+  width: 100%;
+}
+
 .hero__title {
   color: var(--white);
   font-size: 3rem;
