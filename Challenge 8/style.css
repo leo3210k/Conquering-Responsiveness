@@ -24,6 +24,11 @@
   font-weight: bold;
 }
 
+.nav__links > a + a,
+.nav__account > a + a {
+  margin-left: 1rem;
+}
+
 .nav__links > a,
 .nav__account > a {
   color: var(--white);
