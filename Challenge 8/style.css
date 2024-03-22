@@ -10,6 +10,7 @@
   --donkey-brown: #A59678;
   --bright-gray: #3B4050;
   --storm-gray: #6F737F;
+  --concrete: #f2f2f2;
 }
 
 .header {
@@ -98,4 +99,8 @@
   font-weight: bold;
   border-radius: 2rem;
   text-transform: uppercase;
+}
+
+.qualities {
+  background-color: var(--storm-gray);
 }
