@@ -22,7 +22,7 @@
 .nav {
   display: flex;
   gap: 2rem;
-  font-size: 18px;
+  font-size: 1.1rem;
   font-weight: bold;
 }
 
