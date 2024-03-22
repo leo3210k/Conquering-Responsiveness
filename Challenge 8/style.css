@@ -102,5 +102,7 @@
 }
 
 .qualities {
-  background-color: var(--storm-gray);
+  padding: 4rem 0;
+  background-color: var(--concrete);
 }
+
