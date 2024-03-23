@@ -231,4 +231,5 @@ img {
   flex-direction: column;
   gap: .4rem;
   color: var(--storm-gray);
+  font-family: "Montserrat", sans-serif;
 }
