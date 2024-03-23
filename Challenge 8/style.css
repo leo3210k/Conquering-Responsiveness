@@ -221,3 +221,7 @@ img {
   flex-direction: column;
   gap: .6rem;
 }
+
+.information__title {
+  color: var(--donkey-brown);
+}
