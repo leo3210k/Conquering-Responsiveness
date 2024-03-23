@@ -226,3 +226,10 @@ img {
 .information__title {
   color: var(--donkey-brown);
 }
+
+.information__description {
+  display: flex;
+  flex-direction: column;
+  gap: .4rem;
+  color: var(--storm-gray);
+}
