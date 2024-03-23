@@ -190,6 +190,10 @@ img {
   font-weight: 400;
 }
 
-.footer .container {
+.footer {
+  padding: 4rem 0;
   background-color: var(--bright-gray);
+}
+
+.footer .container {
 }
