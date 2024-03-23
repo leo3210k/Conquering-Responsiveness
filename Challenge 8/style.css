@@ -195,6 +195,13 @@ img {
   background-color: var(--bright-gray);
 }
 
+.footer .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .footer__title {
   color: var(--white);
   font-size: 2.5rem;
