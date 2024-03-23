@@ -215,3 +215,9 @@ img {
   flex-wrap: wrap;
   gap: 2rem;
 }
+
+.information__item {
+  display: flex;
+  flex-direction: column;
+  gap: .6rem;
+}
